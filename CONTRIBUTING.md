@@ -65,3 +65,5 @@ This command will guide you through creating a changeset file that describes the
 Package versioning, publishing, and the generation of changelogs on GitHub releases are automated via GitHub Actions. This ensures that the package is always up-to-date and that every change is properly versioned, published, and documented without manual intervention.
 
 For more information on creating and managing changesets, please refer to the [Changesets documentation](https://github.com/changesets/changesets/blob/b59375614b1b3dabdf67806cd202defb314686a8/docs/adding-a-changeset.md).
+
+<!-- Auto-update: 2025-10-11T09:16:07.756415 -->
